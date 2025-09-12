@@ -1,4 +1,4 @@
-# KDE 睡眠チーム GitHub 🦉 KDE-Sleep GitHub Organization
+# KDE 睡眠チーム 🦉 KDE-Sleep Team
 2025/Sep./7  
 文責：[kdesleep-code](https://github.com/kdesleep-code)
 
