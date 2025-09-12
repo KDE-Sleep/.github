@@ -4,7 +4,7 @@
 
 ---
 
-**研究室配属希望の方は**[こちら](https://github.com/KDE-Sleep/Lab-Introduction)
+**研究室配属希望の方は**[こちら](https://github.com/KDE-Sleep/Lab-Introduction)  
 **For those interested in joining the lab**, [click here](https://github.com/KDE-Sleep/Lab-Introduction).
 
 ---
