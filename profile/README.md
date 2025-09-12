@@ -4,6 +4,11 @@
 
 ---
 
+**研究室配属希望の方は**[こちら](https://github.com/KDE-Sleep/Lab-Introduction)
+**For those interested in joining the lab**, [click here](https://github.com/KDE-Sleep/Lab-Introduction).
+
+---
+
 この GitHub Organization は、筑波大学 KDEグループ「睡眠チーム」による研究活動の一部として運営されています。  
 主に **睡眠脳波解析・AI・医療応用** に関するコードやドキュメントを管理しています。
 
