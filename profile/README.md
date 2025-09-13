@@ -1,4 +1,6 @@
 # KDE 睡眠チーム 🦉 KDE Sleep Team
+![KDE-Sleep-Logo](https://github.com/user-attachments/assets/36895aa5-13d6-4924-afaf-3c72ed6d370a)
+
 2025/Sep./7  
 文責：[kdesleep-code](https://github.com/kdesleep-code)
 
