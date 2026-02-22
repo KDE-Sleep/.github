@@ -28,7 +28,7 @@
 1. **GitHub アカウントを作成**  
    👉 [GitHub Sign Up](https://github.com/join)
 
-2. **GitHub Education (学生/教員向け特典) に登録**  
+2. (Option)**GitHub Education (学生/教員向け特典) に登録**  
    👉 [GitHub Education](https://education.github.com/)  
    学生は無料で GitHub Copilot などの特典を利用できます。
 
