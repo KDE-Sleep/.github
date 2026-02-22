@@ -57,7 +57,7 @@ We mainly manage code and documentation related to **sleep EEG analysis, AI, and
 1. **Create a GitHub Account**  
    👉 [GitHub Sign Up](https://github.com/join)
 
-2. **Apply for GitHub Education (Student/Faculty benefits)**  
+2. (Option)**Apply for GitHub Education (Student/Faculty benefits)**  
    👉 [GitHub Education](https://education.github.com/)  
    Students can get free access to benefits such as GitHub Copilot.
 
